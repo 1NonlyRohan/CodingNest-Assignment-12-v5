@@ -86,3 +86,35 @@ button a {
     font-size: 20px;
     padding: 50px 300px 50px 250px;
 }
+
+.img-2 img{
+    position: absolute;
+    margin: 0px 0px 0px 0px;
+}
+
+.img-2 img {
+    position: absolute;
+    margin: 0px 0px 0px 60px;
+    height: 400px;
+}
+
+.img-3 img {
+    position: absolute;
+    margin: 0px 0px 0px 680px;
+    height: 400px;
+}
+
+.mid-2-p #p4 {
+    color: black;
+    font-family: josefin sans;
+    font-size: 20px;
+    padding: 450px 300px 0px 260px;
+}
+
+.mid-2-p #p5 {
+    color: black;
+    font-family: josefin sans;
+    font-size: 20px;
+    padding: 50px 300px 60px 260px;
+}
+
