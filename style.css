@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: math;
+    font-size: 16px;
+}
+
+body {
+    background: #fff;
+}
+
+.head h2 a {
+    color: crimson;
+    font-size: 30px;
+    position: absolute;
+    font-family: cinzel;
+}
+
+.navbar ul {
+    margin-left: 800px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    margin: 20px;
+    color: black;
+    font-size: 22px;
+}
+
+button {
+    position: absolute;
+    background-color: black;
+    padding: 2px;
+    width: 100px;
+    border-radius: 5px;
+    margin: 0 0 0 10px;
+}
+
+button a {
+    color: white;
+}
