@@ -45,3 +45,44 @@ button {
 button a {
     color: white;
 }
+
+.mid-1 h1 {
+    font-size: 40px;
+    position: absolute;
+    display: block;
+    padding: 60px 0 0 60px;
+}
+
+.mid-1 p {
+    color: grey;
+    font-size: 22px;
+    display: block;
+    padding: 120px 740px 0 60px;
+}
+
+.img-1 img {
+    position: absolute;
+    height: 650px;
+    padding: 0 0 0 50px;
+}
+
+.mid-1-p #p1 {
+    color: black;
+    padding: 700px 300px 0 250px;
+    font-size: 20px;
+    font-family: josefin sans;
+}
+
+.mid-1-p #p2 {
+    color: black;
+    font-family: josefin sans;
+    font-size: 20px;
+    padding: 50px 300px 0 250px;
+}
+
+.mid-1-p #p3 {
+    color: black;
+    font-family: josefin sans;
+    font-size: 20px;
+    padding: 50px 300px 50px 250px;
+}
