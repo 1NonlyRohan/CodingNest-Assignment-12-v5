@@ -118,3 +118,53 @@ button a {
     padding: 50px 300px 60px 260px;
 }
 
+.mid-3 h1 {
+    font-size: 20px;
+    position: absolute;
+    margin: 0 0 0 60px;
+}
+
+.img-4-content-1 {
+    position: absolute;
+    padding: 40px 0px 0px 50px;
+}
+
+.img-4-content-1 h1{
+    position: absolute;
+    margin: 0 0 0 0;
+}
+
+.img-4-content-1 p{
+    position: absolute;
+    padding: 35px 0 0 0;
+}
+
+.img-5-content-2 {
+    position: absolute;
+    padding: 40px 0px 0px 450px;
+}
+
+.img-5-content-2 h1{
+    position: absolute;
+    margin: 0 0 0 0;
+}
+
+.img-5-content-2 p{
+    position: absolute;
+    padding: 35px 0 0 0;
+}
+
+.img-6-content-3 {
+    position: absolute;
+    padding: 40px 0px 0px 850px;
+}
+
+.img-6-content-3 h1{
+    position: absolute;
+    margin: 0 0 0 0;
+}
+
+.img-6-content-3 p{
+    position: absolute;
+    padding: 35px 0 0 0;
+}
